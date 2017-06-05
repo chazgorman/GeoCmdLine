@@ -1,0 +1,8 @@
+<configuration>
+    <dataUrl>http://services1.arcgis.com/vY6WuhLW0HkFe6Fl/ArcGIS/rest/services/Priority_Wetlands_1_Holding_Tank/FeatureServer</dataUrl>
+    <layerNumbers>0</layerNumbers>
+    <outputJsonDirectory>D:\dev\LUSLayers</outputJsonDirectory>
+    <fileLoggingEnabled>False</fileLoggingEnabled>
+    <promptForRun>False</promptForRun>
+    <layerNamesList>Priority Wetlands 1</layerNamesList>
+</configuration>

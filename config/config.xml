@@ -1,0 +1,8 @@
+<configuration>
+    <dataUrl>http://localhost:8080/layers/CCG_COP_BASE_En_R4/mapserver</dataUrl>
+    <layerNumbers>1-4,5,6-13</layerNumbers>
+    <outputJsonDirectory>D:\dev\COPDataExtraction\output\enTest</outputJsonDirectory>
+    <fileLoggingEnabled>False</fileLoggingEnabled>
+    <promptForRun>False</promptForRun>
+    <layerNamesList>CCG Bases,SAR Stations,RCCs,CP Offices,MSOCs,MCTS Centres,CCG Small Vessels,CCG Lightstations,CCG Inshore Rescue Boats,Royal Canadian Marine - SAR Bases,CCG VHF Direction Finding,Arctic Environment Response Depot,Environmental Response Cache</layerNamesList>
+</configuration>

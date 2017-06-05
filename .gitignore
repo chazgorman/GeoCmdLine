@@ -73,3 +73,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.iml
+.idea/libraries/GOPATH__GeoCmdLine_.xml
+.idea/libraries/Go_SDK.xml
+.idea/workspace.xml
+.idea/modules.xml
