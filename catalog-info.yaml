@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GeoCmdLine
+  annotations:
+    github.com/project-slug: chazgorman/GeoCmdLine
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Chaz
